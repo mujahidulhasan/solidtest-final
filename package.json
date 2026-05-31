@@ -45,5 +45,11 @@
 		"tailwindcss": "^4.0.0",
 		"typescript": "^5.8.3",
 		"vitest": "^3.2.1"
+	},
+	"overrides": {
+		"kysely": "0.27.3"
+	},
+	"resolutions": {
+		"kysely": "0.27.3"
 	}
 }
